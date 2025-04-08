@@ -38,7 +38,7 @@ cd wine-quality-classification
 
 ### 2. Run the analysis
 ```bash
-jupyter notebook notebooks/Wine_Quality_Analysis.ipynb
+jupyter notebook notebooks/WineQualityAnalysis.ipynb
 ```
 
 ## Results
